@@ -1,0 +1,5 @@
+# ignore node_modules directory 不上传这个文件夹
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
