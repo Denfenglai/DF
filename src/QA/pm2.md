@@ -10,7 +10,7 @@ category:
 
 ::: info 
 常在`#重启`或`后台启动`时出现
-![pm2报错](/PM2.png)
+![pm2报错](/img/PM2.png)
 :::
     
 ::: warning

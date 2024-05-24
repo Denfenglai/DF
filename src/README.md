@@ -19,10 +19,6 @@ actions:
     link: /Tutorials/
     type: info
     
-  - text: 💎早苗Bot
-    link: /docs/Fox.md
-    type: info
-    
 features:
   - title: Yunzai-Bot V3
     icon: support
@@ -40,7 +36,7 @@ features:
     link: /Linux.md
     
 copyright: Copyright © 2023
-footer: <a href="https://gitee.com/yoimiya-kokomi/Yunzai-Bot" target="_blank">Yunzai-Bot</a> | <a href="https://gitee.com/DengFengLai-F/yz" target="_blank">DF-Shell</a>
+footer: <a href="https://gitee.com/yoimiya-kokomi/Yunzai-Bot" target="_blank">Yunzai-Bot</a> | <a href="https://gitee.com/DenFengLai/DF-Script" target="_blank">DF-Shell</a>
 ---
 
 ## 快速上手💡
@@ -50,19 +46,19 @@ footer: <a href="https://gitee.com/yoimiya-kokomi/Yunzai-Bot" target="_blank">Yu
 @tab Termux
 
 ```bash
-bash <(curl -sL gitee.com/DengFengLai-F/yz/raw/master/Termux/Termux.sh)
+bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/Termux/Termux.sh)
 ```
 
 @tab Ubuntu
 
 ```bash
-  bash <(curl -sL gitee.com/DengFengLai-F/yz/raw/master/Ubuntu/install.sh)
+  bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/Ubuntu/install.sh)
 ```
 
 @tab CentOS
 
 ```bash
-  bash <(curl -sL gitee.com/DengFengLai-F/yz/raw/master/CentOS/install.sh)
+  bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/CentOS/install.sh)
 ```
 :::
     
@@ -74,27 +70,29 @@ bash <(curl -sL gitee.com/DengFengLai-F/yz/raw/master/Termux/Termux.sh)
 :::
     
 ### 联系方式
-```card
-title: QQ群组
-desc: 欢淫加入QQ交流群
-logo: /Logo/QQ群组.png
-link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rIikKx2razAiLgsiStGp147-blkW8L6U&authKey=K3dW4858hjkjS%2F%2FBATgty0JubDMveDluicii%2BQrg9vyZjaaqhJjNECXpoL61HR1V&noverify=0&group_code=692314526
-color: rgba(192, 192, 192, 0.15)
-```
-```card
-title: Gitee
-desc: 等风来的Gitee主页
-logo: /Logo/gitee.png
-link: https://gitee.com/DengFengLai-F
-color: rgba(255, 192, 203, 0.15)
-```
 
-```card
-title: Github
-desc: 等风来的Github主页
-logo: /Logo/Github.png
-link: https://github.com/Denfenglai
-color: rgba(0, 0, 0, 0.15)
-```
+<VPCard
+  title="QQ群组"
+  desc="欢迎加入QQ交流群"
+  logo="https://p.qlogo.cn/gh/559805580/559805580/0"
+  link="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2ESdq6BSueOXlHLl4djELRfML9L7lydJ&authKey=NtFw25NfjaDg5fNoeXi4muc98YWlwo%2BeMMV%2BKSfTfatrozsMybpSBuZYipKCTcig&noverify=0&group_code=559805580"
+  background="rgba(192, 192, 192, 0.15)"
+/>
+
+<VPCard
+  title="Gitee"
+  desc="等风来的Gitee主页"
+  logo="/Logo/gitee.png"
+  link="https://gitee.com/DengFengLai-F"
+  background="rgba(255, 192, 203, 0.15)"
+/>
+
+<VPCard
+  title="Github"
+  desc="等风来的Github主页"
+  logo="/Logo/Github.png"
+  link="https://github.com/Denfenglai"
+  background="rgba(0, 0, 0, 0.15)"
+/>
 
 <img src="https://api.suyanw.cn/api/ipimg" title="P动态签名图API" alt="P动态签名图API"/>

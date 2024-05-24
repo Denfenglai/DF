@@ -25,7 +25,7 @@ category:
 在终端执行
 
 ```bash
-bash <(curl -sL gitee.com/DengFengLai-F/yz/raw/master/DF.sh)
+bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/DF.sh)
 ```
 - [B站教程](https://b23.tv/EyEJxLw)
 - [脚本快捷键](/Shortcut.md)

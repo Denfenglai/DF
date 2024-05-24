@@ -16,7 +16,7 @@ category:
 ::: warning 使用脚本
 脚本包含了以下全部方法
 ```bash
-bash <(curl -sL gitee.com/DengFengLai-F/yz/raw/master/Script/Chromium.sh)
+bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/Script/Chromium.sh)
 ```
 :::
 
