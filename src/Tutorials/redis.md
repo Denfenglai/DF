@@ -19,29 +19,39 @@ Redis（Remote Dictionary Server）是一个开源的内存数据存储系统，
 ### macOS 安装
 
 1. 使用 Homebrew（包管理工具）安装 Redis。在终端中运行以下命令：
+
 ```
 brew install redis
 ```
+
 2. 安装完成后，运行以下命令启动 Redis 服务器：
+
 ```
 redis-server
 ```
+
 3. 在另一个终端窗口中，运行以下命令启动 Redis 命令行客户端：
+
 ```
 redis-cli
 ```
+
 ### Linux 安装
 
 1. 打开终端，使用包管理工具安装 Redis。例如，在 Ubuntu 上，运行以下命令：
+
 ```bash
 sudo apt-get update
 sudo apt-get install redis-server
 ```
+
 2. 安装完成后，Redis 服务器将自动启动。
 3. 要运行 Redis 命令行客户端，打开终端并运行以下命令：
+
 ```bash
 redis-cli
 ```
+
 ## 🌸验证安装
 
 无论哪种操作系统，通过在 Redis 命令行客户端中输入 `ping` 命令，如果返回 `PONG`，则说明 Redis 安装成功。

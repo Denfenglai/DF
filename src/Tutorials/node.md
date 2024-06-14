@@ -17,33 +17,42 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时，用于构建�
 1. 访问 [Node.js](https://nodejs.cn/download/) 官方网站，下载适用于 Windows 的 LTS 版本（长期支持版本）的安装包。
 2. 双击运行下载的安装包，并按照安装向导的指示进行安装。
 3. 完成安装后，打开命令提示符或 PowerShell，并运行以下命令以验证 Node.js 是否安装成功：
+
 ```bash
 node -v
 ```
+
 ### macOS 安装
 
-1. 访问 [Node.js](https://nodejs.cn/download/
-) 官方网站，下载适用于 macOS 的 LTS 版本（长期支持版本）的安装包。
+1. 访问 [Node.js](https://nodejs.cn/download/) 官方网站，下载适用于 macOS 的 LTS 版本（长期支持版本）的安装包。
 2. 双击运行下载的安装包，并按照安装向导的指示进行安装。
 3. 安装完成后，在终端中运行以下命令以验证 Node.js 是否安装成功：
+
 ```bash
 node -v
 ```
+
 ### Linux 安装
 
 1. 使用包管理器安装 Node.js。例如，在 Ubuntu 上，打开终端并运行以下命令：
+
 ```bash
 sudo apt-get update
 sudo apt-get install nodejs
 ```
-   如果同时需要 npm（Node.js 包管理器），可以运行以下命令安装：
+
+如果同时需要 npm（Node.js 包管理器），可以运行以下命令安装：
+
 ```bash
 sudo apt-get install npm
 ```
+
 2. 安装完成后，在终端中运行以下命令以验证 Node.js 是否安装成功：
+
 ```bash
 node -v
 ```
+
 ## 💌验证安装
 
 无论哪种操作系统，通过在命令提示符、PowerShell 或终端中输入 `node -v` 命令，如果返回 Node.js 版本号，则说明 Node.js 安装成功。

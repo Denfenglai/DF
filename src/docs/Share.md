@@ -17,9 +17,11 @@ category:
 希望您能准备一个[科学上网](https://baike.baidu.com/item/科学上网/56550286)  
 如出现无法正常访问请尝试科学上网
 :::
-    
+
 ---
+
 ::: note 置顶
+
 ```card
 title: 原神
 desc: 《原神》是中国著名游戏开发公司 miHoYo 开发的一款免费开放世界动作角色扮演游戏，玩家可以在游戏中扮演一名旅行者，探索神秘的世界、解开谜题、战斗敌人、收集各种角色并培养他们的能力等。游戏画面精美，剧情丰富，精细的角色设定和多样的战斗方式深受玩家喜爱。
@@ -27,8 +29,9 @@ logo: /Logo/原神.png
 link: https://ys.mihoyo.com/
 color: rgba(245, 245, 220, 0.15)
 ```
+
 :::
-    
+
 ```card
 title: Chat8
 desc: 国内免费免翻ChatGPT
@@ -62,6 +65,7 @@ color: rgba(143, 216, 255, 0.15)
 ```
 
 ---
+
 ```card
 title: 涩涩专区
 desc: 你懂我意思吧？
@@ -69,4 +73,3 @@ logo: https://mrhope.site/logo.svg
 link: /docs/sese.md
 color: rgba(255, 192, 203, 0.15)
 ```
-

@@ -8,7 +8,6 @@ order: 1
 
 Git 是一个分布式版本控制系统，用于跟踪文件的更改并协作开发代码。它可以帮助团队成员协同工作，记录文件的历史变更，提供分支管理功能等。Git 是目前最流行的版本控制系统之一，广泛应用于软件开发项目中。
 
-
 ## 💎Git 安装教程
 
 ### 步骤 1：下载 Git 安装包
@@ -34,16 +33,19 @@ Git 是一个分布式版本控制系统，用于跟踪文件的更改并协作�
 ```bash
 sudo apt-get install git
 ```
+
 - Fedora：
 
 ```bash
 sudo dnf install git
 ```
+
 - CentOS：
 
 ```bash
   sudo yum install git
 ```
+
 ### 步骤 3：验证安装
 
 安装完成后，打开命令行终端，并执行以下命令来验证 Git 是否成功安装：
@@ -51,8 +53,8 @@ sudo dnf install git
 ```bash
 git --version
 ```
-如果成功输出 Git 版本信息，即表示 Git 安装成功。
 
+如果成功输出 Git 版本信息，即表示 Git 安装成功。
 
 ## 🎮Git 常见命令用法
 

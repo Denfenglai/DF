@@ -51,7 +51,7 @@ export default hopeTheme({
 
       // 页面元
       metaLocales: {
-        docsRepo: "https://github.com/Denfenglai/DF"
+        docsRepo: "https://github.com/Denfenglai/DF",
         editLink: "在 GitHub 上编辑此页",
       },
     },
@@ -69,16 +69,7 @@ export default hopeTheme({
       // @ts-expect-error: You should generate and use your own comment service
       provider: "Waline",
     },
-    
-    metingPlugin({
-      metingOptions: {
-        global: true, // 开启关闭全局播放器
-        server: "tencent",
-        api: "https://api.injahow.cn/meting/?server=:server&type=:type&id=:id&auth=:auth&r=:r",
-        type: "playlist",
-        mid: "851947617",
-      },
-    }),
+
     // 演示功能
     mdEnhance: {
       align: true,

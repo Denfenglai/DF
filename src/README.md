@@ -10,15 +10,15 @@ actions:
   - text: 💡快速上手
     link: /Linux.md
     type: primary
-    
+
   - text: 💝常见问题
     link: /QA/
     type: secondary
-    
+
   - text: 🗝️基础教程
     link: /Tutorials/
     type: info
-    
+
 features:
   - title: Yunzai-Bot V3
     icon: support
@@ -34,7 +34,7 @@ features:
     icon: strong
     details: 支持多Bot一键安装 卸载 多个插件 快捷运行
     link: /Linux.md
-    
+
 copyright: Copyright © 2023
 footer: <a href="https://gitee.com/yoimiya-kokomi/Yunzai-Bot" target="_blank">Yunzai-Bot</a> | <a href="https://gitee.com/DenFengLai/DF-Script" target="_blank">DF-Shell</a>
 ---
@@ -60,15 +60,16 @@ bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/Termux/Termux.sh)
 ```bash
   bash <(curl -sL gitee.com/DenFengLai/DF-Script/raw/master/CentOS/install.sh)
 ```
+
 :::
-    
+
 ::: warning 适配的系统
 
 - Ubuntu 18.04＋
 - Android 7+
 - CentOS 8+
-:::
-    
+  :::
+
 ### 联系方式
 
 <VPCard

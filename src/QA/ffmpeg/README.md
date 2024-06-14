@@ -10,8 +10,8 @@ category:
   - FFmpeg
 ---
 
-- [Windows](./win.html)  
+- [Windows](./win.html)
 
-- [Linux](./linux.html)  
+- [Linux](./linux.html)
 
-- [Android](./linux.html)  
+- [Android](./linux.html)
